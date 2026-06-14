@@ -1,0 +1,6 @@
+{
+  "name": "Guitar Tuner",
+  "description": "An interactive, ultra-precise guitar and instrument tuner with smooth pitch tracking, a real-time dial meter, and reference string tones.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
